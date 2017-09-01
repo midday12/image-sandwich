@@ -1,2 +1,5 @@
 # image-sandwich
-Find a blang area of very long image and cut to several pieces.
+- Find a blank area of very long image
+- And cut to several pieces.
+- High performance and small size code and pure native java code.
+
